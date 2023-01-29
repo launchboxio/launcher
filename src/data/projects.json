@@ -1,0 +1,9 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "This is a test project",
+      "cluster": 1
+    }
+  ]
+}

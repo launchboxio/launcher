@@ -1,0 +1,46 @@
+{
+  "clusters": [
+    {
+      "id": 1,
+      "name": "This is a test AWS cluster",
+      "provider": "aws",
+      "version": "1.25",
+      "region": "us-east-1"
+    },
+    {
+      "id": 2,
+      "name": "This is a test GCP cluster",
+      "provider": "gcp",
+      "version": "1.25",
+      "region": "us-east-1"
+    },
+    {
+      "id": 3,
+      "name": "This is a test Azure cluster",
+      "provider": "azure",
+      "version": "1.25",
+      "region": "us-east-1"
+    },
+    {
+      "id": 4,
+      "name": "This is a test Launchbox cluster",
+      "provider": "lbx",
+      "version": "1.25",
+      "region": "us-east-1"
+    },
+    {
+      "id": 5,
+      "name": "Cluster with no preconfigured cloud",
+      "provider": "unknown",
+      "version": "1.25",
+      "region": "us-east-1"
+    },
+    {
+      "id": 6,
+      "name": "Lastly, one for demos",
+      "provider": "demo",
+      "version": "1.25",
+      "region": "us-east-1"
+    }
+  ]
+}

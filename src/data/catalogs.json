@@ -1,0 +1,10 @@
+{
+  "catalogs": [{
+    "id": 1,
+    "addons": [],
+    "services": [{
+      "service_id": 1,
+      "addons": []
+    }]
+  }]
+}

@@ -1,0 +1,9 @@
+{
+  "services": [{
+    "id": 1,
+    "name": "service-a",
+    "provider": "github",
+    "host": "github.com",
+    "source": "launchboxio/service-a"
+  }]
+}

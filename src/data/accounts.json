@@ -1,0 +1,11 @@
+{
+  "accounts": [{
+    "host": "launchboxhq.io",
+    "email": "robert.wittman@launchboxhq.io",
+    "name": ""
+  }, {
+    "host": "tenant1.launchboxhq.io",
+    "email": "rwittman@tenant.launchboxhq.io",
+    "name": "Tenant 1"
+  }]
+}
