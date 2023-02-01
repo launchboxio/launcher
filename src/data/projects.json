@@ -3,7 +3,14 @@
     {
       "id": 1,
       "name": "This is a test project",
-      "cluster": 1
+      "cluster": 1,
+      "state": "running"
+    },
+    {
+      "id": 2,
+      "name": "This is another test project",
+      "cluster": 3,
+      "state": "paused"
     }
   ]
 }

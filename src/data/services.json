@@ -5,5 +5,11 @@
     "provider": "github",
     "host": "github.com",
     "source": "launchboxio/service-a"
+  },{
+    "id": 1,
+    "name": "service-b",
+    "provider": "github",
+    "host": "github.com",
+    "source": "launchboxio/service-b"
   }]
 }

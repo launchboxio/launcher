@@ -13,9 +13,7 @@ export default function() {
       {data.catalogs.map((item) => {
         return (
           <Card interactive={true} key={ item.id } elevation={Elevation.TWO}>
-            <h5><Link to={`/catalogs/${ item.id }`}>{ item.name }</Link></h5>
-            <p>Card content</p>
-            <Button>Submit</Button>
+            <h5><Link to={`/catalogs/${ item.id }`}>{ item.id }</Link></h5>
           </Card>
         )
       })}

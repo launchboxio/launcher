@@ -6,7 +6,9 @@ export default function Root() {
   return (
     <>
       <Navbar />
-      <Outlet />
+      <div style={{display: "flex"}}>
+        <Outlet />
+      </div>
     </>
   );
 }
